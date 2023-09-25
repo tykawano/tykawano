@@ -4,7 +4,7 @@
   
 - 🌱 I’m currently learning how to create animations in games and movies
 
--
+
 
 <!---
 tykawano/tykawano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
