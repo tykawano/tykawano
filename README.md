@@ -1,8 +1,7 @@
-- 👋 Hi, my name is Taiki Kawano and I am a 2nd year computer science student at Dalhousie University
+- Hi, my name is Taiki Kawano and I am a 2nd year computer science student at Dalhousie University
+
+-Take a look at what I've done!
   
-- 👀 I’m interested in game development and object-oriented programming
-  
-- 🌱 I’m currently learning how to create animations in games and movies
 
 
 
