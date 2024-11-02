@@ -1,4 +1,4 @@
-- Hi, my name is Taiki Kawano and I am a 2nd year computer science student at Dalhousie University
+- Hi, my name is Taiki Kawano and I am a 3rd year computer science student at Dalhousie University
 
 - Take a look at what I've done!
   
